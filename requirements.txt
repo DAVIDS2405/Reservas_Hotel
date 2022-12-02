@@ -1,0 +1,12 @@
+
+
+"""
+#paquetes principales
+pip install pyside6
+pip install mysql-connector-python
+pip install fpdf
+#en caso de error probar realizando el upgrade o reinstalando una version anterior de mysql-conector
+pip install --upgrade pyside6
+pip install -- upgrade fpdf
+pip3 install mysql-connector-python==8.0.29
+"""

@@ -1,2 +1,3 @@
-# Reservas_Hotel
-Proyecto de reservación de hoteles
+# Proyecto_Gestion
+
+ Sistema de reservas con python realizado por David Basantes, Estela Chipantasi, Jhoana Aucancela
