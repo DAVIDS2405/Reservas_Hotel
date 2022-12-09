@@ -9,4 +9,12 @@ pip install fpdf
 pip install --upgrade pyside6
 pip install -- upgrade fpdf
 pip3 install mysql-connector-python==8.0.29
+
+//administrador
+usuario 1750974550
+contraseña David_2405
+
+//empleado 
+usuario 111111111
+contraseña 11111111
 """
